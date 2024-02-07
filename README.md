@@ -1,4 +1,3 @@
-# Bash_scripting
 # Bash Scripting Course
 
 This repository contains the assignments and projects completed during my journey of learning Bash scripting.
